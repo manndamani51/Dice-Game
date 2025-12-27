@@ -1,0 +1,21 @@
+
+      body {
+        background-color: cadetblue;
+        color: maroon;
+        text-align: center;
+        padding: 150px;
+      }
+      h1{
+        font-size: 5rem;
+      }
+      .p1{
+        float: left;
+        margin-left: 30%;
+      }
+      .p2{
+        float: right;
+        margin-right: 30%;
+      }
+      img{
+        width: 100px;
+      }
